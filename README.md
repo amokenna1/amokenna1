@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amokenna1
-- 👀 I’m interested in progrmming and cyber-security
+- 👀 I’m interested in programming and cyber-security
 - 🌱 I’m currently learning python and Ethical Hacking
 - 💞️ I’m looking to collaborate on several projects that will be listed shortly...
 - 📫 You can connect with me on twitter - @amokenna, or send a mail to - amokenna@gmail.com
